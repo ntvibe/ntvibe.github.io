@@ -1,0 +1,200 @@
+{
+  "source": "monoPLAY V1.fbx",
+  "target_triangles_per_mesh": 12000,
+  "models": [
+    {
+      "name": "cico_01",
+      "source_triangles": 50552,
+      "web_triangles": 12000,
+      "reduction": 0.7626
+    },
+    {
+      "name": "cico_02",
+      "source_triangles": 97420,
+      "web_triangles": 12000,
+      "reduction": 0.8768
+    },
+    {
+      "name": "cico_03",
+      "source_triangles": 95016,
+      "web_triangles": 12000,
+      "reduction": 0.8737
+    },
+    {
+      "name": "cico_04",
+      "source_triangles": 229464,
+      "web_triangles": 12000,
+      "reduction": 0.9477
+    },
+    {
+      "name": "cuboo_01",
+      "source_triangles": 19416,
+      "web_triangles": 12000,
+      "reduction": 0.382
+    },
+    {
+      "name": "cuboo_02",
+      "source_triangles": 35530,
+      "web_triangles": 12000,
+      "reduction": 0.6623
+    },
+    {
+      "name": "cuboo_03",
+      "source_triangles": 28000,
+      "web_triangles": 12000,
+      "reduction": 0.5714
+    },
+    {
+      "name": "cuboo_04",
+      "source_triangles": 192808,
+      "web_triangles": 12000,
+      "reduction": 0.9378
+    },
+    {
+      "name": "cuboo_05",
+      "source_triangles": 101268,
+      "web_triangles": 12000,
+      "reduction": 0.8815
+    },
+    {
+      "name": "cuboo_06",
+      "source_triangles": 19768,
+      "web_triangles": 11998,
+      "reduction": 0.3931
+    },
+    {
+      "name": "cuboo_07",
+      "source_triangles": 15808,
+      "web_triangles": 12000,
+      "reduction": 0.2409
+    },
+    {
+      "name": "disco_01",
+      "source_triangles": 142330,
+      "web_triangles": 12000,
+      "reduction": 0.9157
+    },
+    {
+      "name": "disco_02",
+      "source_triangles": 147374,
+      "web_triangles": 12000,
+      "reduction": 0.9186
+    },
+    {
+      "name": "disco_03",
+      "source_triangles": 29148,
+      "web_triangles": 12000,
+      "reduction": 0.5883
+    },
+    {
+      "name": "disco_04",
+      "source_triangles": 41928,
+      "web_triangles": 12000,
+      "reduction": 0.7138
+    },
+    {
+      "name": "disco_05",
+      "source_triangles": 65612,
+      "web_triangles": 12000,
+      "reduction": 0.8171
+    },
+    {
+      "name": "disco_06",
+      "source_triangles": 64472,
+      "web_triangles": 12000,
+      "reduction": 0.8139
+    },
+    {
+      "name": "disco_07",
+      "source_triangles": 132256,
+      "web_triangles": 12000,
+      "reduction": 0.9093
+    },
+    {
+      "name": "sphero_01",
+      "source_triangles": 1397160,
+      "web_triangles": 12000,
+      "reduction": 0.9914
+    },
+    {
+      "name": "tapero_01",
+      "source_triangles": 19848,
+      "web_triangles": 12000,
+      "reduction": 0.3954
+    },
+    {
+      "name": "tapero_02",
+      "source_triangles": 12480,
+      "web_triangles": 12000,
+      "reduction": 0.0385
+    },
+    {
+      "name": "tapero_03",
+      "source_triangles": 19120,
+      "web_triangles": 11998,
+      "reduction": 0.3725
+    },
+    {
+      "name": "tapero_04",
+      "source_triangles": 23000,
+      "web_triangles": 12000,
+      "reduction": 0.4783
+    },
+    {
+      "name": "tapero_05",
+      "source_triangles": 19184,
+      "web_triangles": 12000,
+      "reduction": 0.3745
+    },
+    {
+      "name": "wavo_01",
+      "source_triangles": 136862,
+      "web_triangles": 12000,
+      "reduction": 0.9123
+    },
+    {
+      "name": "xo_01",
+      "source_triangles": 35104,
+      "web_triangles": 12000,
+      "reduction": 0.6582
+    },
+    {
+      "name": "xo_02",
+      "source_triangles": 41632,
+      "web_triangles": 12000,
+      "reduction": 0.7118
+    },
+    {
+      "name": "xo_03",
+      "source_triangles": 236172,
+      "web_triangles": 12000,
+      "reduction": 0.9492
+    },
+    {
+      "name": "xo_04",
+      "source_triangles": 115224,
+      "web_triangles": 12000,
+      "reduction": 0.8959
+    },
+    {
+      "name": "yolo_01",
+      "source_triangles": 19528,
+      "web_triangles": 12000,
+      "reduction": 0.3855
+    },
+    {
+      "name": "yolo_02",
+      "source_triangles": 60960,
+      "web_triangles": 12000,
+      "reduction": 0.8031
+    },
+    {
+      "name": "yolo_03",
+      "source_triangles": 61712,
+      "web_triangles": 12000,
+      "reduction": 0.8055
+    }
+  ],
+  "total_source_triangles": 3706156,
+  "total_web_triangles": 383996
+}

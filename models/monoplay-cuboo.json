@@ -1,0 +1,11 @@
+{
+  "source": "monoplay-collection.glb",
+  "sourceSha256": "c8d53a3d83ceeba50699e39d53abd56b93499f819c80d05a1aee7170de8f8c56",
+  "sourceNode": "cuboo_04",
+  "output": "monoplay-cuboo.glb",
+  "outputSha256": "7975933cd3f7538228488ab68036f6abcb8e3924ba513adfc3a5cfd166a41f82",
+  "sourceBytes": 1667520,
+  "outputBytes": 145224,
+  "triangles": 12000,
+  "losslessDecodedAccessorExtraction": true
+}

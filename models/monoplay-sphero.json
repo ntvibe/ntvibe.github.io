@@ -1,0 +1,11 @@
+{
+  "source": "monoplay-collection.glb",
+  "sourceSha256": "c8d53a3d83ceeba50699e39d53abd56b93499f819c80d05a1aee7170de8f8c56",
+  "sourceNode": "sphero_01",
+  "output": "monoplay-sphero.glb",
+  "outputSha256": "9ecfe188bc883972370f6f581e9ef009eba9d6fe0ba2af4aac396539b26c92ee",
+  "sourceBytes": 1667520,
+  "outputBytes": 145488,
+  "triangles": 12000,
+  "losslessDecodedAccessorExtraction": true
+}

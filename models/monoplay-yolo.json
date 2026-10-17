@@ -1,0 +1,11 @@
+{
+  "source": "monoplay-collection.glb",
+  "sourceSha256": "c8d53a3d83ceeba50699e39d53abd56b93499f819c80d05a1aee7170de8f8c56",
+  "sourceNode": "yolo_03",
+  "output": "monoplay-yolo.glb",
+  "outputSha256": "b69bdc84f7f49c7e3642d237e34065477fbb0a543f6484c8b7f8df10f95abcb2",
+  "sourceBytes": 1667520,
+  "outputBytes": 145328,
+  "triangles": 12000,
+  "losslessDecodedAccessorExtraction": true
+}
